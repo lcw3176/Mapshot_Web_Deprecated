@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://mapshot.netlify.app/sitemap.xml
